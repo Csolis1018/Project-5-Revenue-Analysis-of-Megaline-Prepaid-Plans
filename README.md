@@ -32,7 +32,4 @@ Ultimate plan users consume more calls, SMS, and data than Surf plan users.
 Simply calculating total revenue does not provide a definitive answer about which plan generates more revenue.
 Statistical analysis revealed that, on average, the Ultimate plan brings in higher revenue for the company.
 This revenue difference is reflected in call, SMS, and data usage values.
-Qué criterio utilizaste para probar las hipótesis y por qué.
-Paso 5. Escribe una conclusión general
 
-Formato. Completa todas las tareas en un Jupyter Notebook. Almacena todo el código en las celdas code y las explicaciones de texto en las celdas markdown. Añade títulos y el formato adecuado si es necesario.
